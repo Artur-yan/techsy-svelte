@@ -1,0 +1,137 @@
+<urlset 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+    http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"   >
+
+    <url>
+        <loc>https://www.techsy.io/en</loc>
+        <priority>1.00</priority>
+        <xhtml:link
+            rel="alternate"
+            hreflang="et"
+            href="https://www.techsy.io" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://www.techsy.io/en" />
+    </url>
+    <url>
+        <loc>https://www.techsy.io</loc>
+        <priority>1.00</priority>
+        <xhtml:link
+            rel="alternate"
+            hreflang="et"
+            href="https://www.techsy.io" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://www.techsy.io/en" />
+    </url>
+
+    <url>
+        <loc>https://www.techsy.io/en/about-us</loc>
+        <priority>1.00</priority>
+        <xhtml:link
+            rel="alternate"
+            hreflang="et"
+            href="https://www.techsy.io/meist" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://www.techsy.io/en/about-us" />
+    </url>
+    <url>
+        <loc>https://www.techsy.io/meist</loc>
+        <priority>1.00</priority>
+        <xhtml:link
+            rel="alternate"
+            hreflang="et"
+            href="https://www.techsy.io/meist" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://www.techsy.io/en/about-us" />
+    </url>
+
+    <url>
+        <loc>https://www.techsy.io/en/contact</loc>
+        <priority>1.00</priority>
+        <xhtml:link
+            rel="alternate"
+            hreflang="et"
+            href="https://www.techsy.io/kontakt" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://www.techsy.io/en/contact" />
+    </url>
+    <url>
+        <loc>https://www.techsy.io/kontakt</loc>
+        <priority>1.00</priority>
+        <xhtml:link
+            rel="alternate"
+            hreflang="et"
+            href="https://www.techsy.io/kontakt" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://www.techsy.io/en/contact" />
+    </url>
+
+
+    <url>
+        <loc>https://www.techsy.io/en/marketing</loc>
+        <priority>1.00</priority>
+        <xhtml:link
+            rel="alternate"
+            hreflang="et"
+            href="https://www.techsy.io/turundusteenused" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://www.techsy.io/en/marketing" />
+    </url>
+    <url>
+        <loc>https://www.techsy.io/turundusteenused</loc>
+        <priority>1.00</priority>
+        <xhtml:link
+            rel="alternate"
+            hreflang="et"
+            href="https://www.techsy.io/turundusteenused" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://www.techsy.io/en/marketing" />
+    </url>
+
+    
+
+     <url>
+        <loc>https://www.techsy.io/en/blog</loc>
+        <priority>1.00</priority>
+        <xhtml:link
+            rel="alternate"
+            hreflang="et"
+            href="https://www.techsy.io/blog" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://www.techsy.io/en/blog" />
+    </url>
+    <url>
+        <loc>https://www.techsy.io/blog</loc>
+        <priority>1.00</priority>
+        <xhtml:link
+            rel="alternate"
+            hreflang="et"
+            href="https://www.techsy.io/blog" />
+        <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://www.techsy.io/en/blog" />
+    </url>
+      
+
+</urlset>

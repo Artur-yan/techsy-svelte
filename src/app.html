@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="%lang%">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.svg" />
+		<link rel="alternate" hreflang="en" href="https://www.techsy.io/en" >
+		<link rel="canonical" rel="alternate" hreflang="et" href="https://www.techsy.io" >
+		
+		<meta name="image" content="https://www.techsy.io/img/signature.svg" />
+
+		<meta content="viewport-fit=cover, width=device-width, initial-scale=1.0" name="viewport">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		<meta name="theme-color" content="white"/>
+
+
+		<!--all css not correct href also no use I canceled it because it was not used and was unnecessary burden.-->
+		<!--<link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css" />-->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-X8L2XLQL1N"></script> 
+		<script> 
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);} 
+			gtag('js', new Date()); 
+			gtag('config', 'G-X8L2XLQL1N'); 
+		</script>
+		<style>
+			.hideScroll::-webkit-scrollbar {
+				display: none !important;
+				overflow-x: hidden;
+			}
+
+			html,
+			body {
+				background-color: #042042;
+				position: relative; /*For iphone*/
+				height: 100%;
+				overscroll-behavior-y: none;  /*Bounce prevent ios > 16*/
+			}
+		</style>
+		%sveltekit.head%
+	</head>
+
+
+
+	<body data-sveltekit-preload-data="hover" class="hideScroll">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+
+</html>

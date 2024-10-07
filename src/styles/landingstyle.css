@@ -1,0 +1,337 @@
+/*Top Panel General*/
+.topPanelHeader2{
+  @apply font-poppins lg:text-[64px] font-bold leading-[0px] text-[48px]
+}
+.topPanelHeader2 > span {
+  display: inline-block;
+  color: #FFF;
+}
+
+@media (min-width: 1024px){
+  .topPanelHeader2 > span {
+      display: inline-block;
+      background: linear-gradient(180deg, #FFF 20%, rgba(255, 255, 255, 0.38) 93.26%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      line-height: 57px;
+      height: 69px;
+  }
+}
+
+.topPanelHeader3{
+  @apply font-inter text-[22px] text-white font-[600] mt-[5px]
+}
+
+.topPanelDescription{
+  @apply font-inter text-white text-[19px] font-[400] lg:font-[300] leading-[23px]
+}
+
+.topPanelDescription > span {
+  @apply font-[500] lg:font-[400]
+}
+
+
+
+/*Landing General*/
+
+.landingBackground {
+  position: fixed;
+  z-index: 1;
+  @apply top-0 h-[100vh] w-full bg-techsyBlue
+}
+
+
+.landingRedCircle{
+  top: 800px;
+  left: 16px;
+
+  width: 500px;
+  height: 1000px;
+
+  border-radius: 0 500px 500px 0;
+  background-color: #DE3C4B;
+  filter: blur(200px);
+  -webkit-filter: blur(200px);
+  mix-blend-mode: normal;
+
+  @apply absolute z-[2] hidden lg:block
+}
+
+
+.landingBlueCircle{
+  top: 1200px;
+  right: 0;
+
+  width: 500px;
+  height: 1000px;
+
+  border-radius: 560px;
+  background-color: #3C69DE;
+  filter: blur(200px);
+  -webkit-filter: blur(200px);
+  mix-blend-mode: normal;
+
+  @apply absolute z-[2] hidden lg:block
+}
+
+
+.landingPupleCircle{
+  bottom: 1095px;
+  left: -87px;
+
+  width: 528px;
+  height: 582px;
+  flex-shrink: 0;
+
+  border-radius: 582px;
+  opacity: 0.6;
+  background: #DB3CDE;
+  filter: blur(250px);
+
+  @apply absolute z-[2] hidden lg:block
+}
+
+
+.landingGreenCircle{
+  bottom: 1139px;
+  left: -259px;
+
+  width: 566px;
+  height: 576px;
+  flex-shrink: 0;
+
+  border-radius: 576px;
+  background: rgba(60, 222, 115, 0.57);
+  filter: blur(162.5px);
+
+  @apply absolute z-[2] hidden lg:block
+}
+
+
+
+
+/*
+
+.testt {
+    width: 566.322px;
+    height: 566.322px;
+    flex-shrink: 0;
+    border-radius: 566.322px;
+    opacity: 0.6;
+    background: #DB3CDE;
+    filter: blur(250px);
+  }
+  
+  .background {
+    position: fixed;
+    z-index: 1;
+  }
+  
+  .redCircle {
+    z-index: 2;
+    position: absolute;
+    top: 800px;
+    overflow: hidden;
+    width: 500px;
+    height: 1000px;
+    background-color: #DE3C4B;
+    border-radius: 0 500px 500px 0;
+    filter: blur(200px);
+    -webkit-filter: blur(200px);
+    mix-blend-mode: normal;
+  }
+  
+  .blueCircle {
+    z-index: 2;
+    right: 0;
+    position: absolute;
+    top: 1200px;
+    overflow: hidden;
+    width: 500px;
+    height: 1000px;
+    background-color: #3C69DE;
+    border-radius: 500px 0 0 500px;
+    filter: blur(200px);
+    -webkit-filter: blur(200px);
+    mix-blend-mode: normal;
+  }
+  
+  .generalCircleMobile {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 300px;
+    height: 600px;
+    border-radius: 1500px 0 0 1500px;
+    filter: blur(100px);
+    -webkit-filter: blur(100px);
+    mix-blend-mode: normal;
+  }
+  
+  .generalCircleMobileCon {
+    z-index: 1;
+    position: absolute;
+    overflow: hidden;
+    width: 600px;
+    height: 1200px;
+  }
+  
+  .redCircleMobile {
+    z-index: 2;
+    right: 0;
+    position: absolute;
+    top: 80px;
+    overflow: hidden;
+    width: 250px;
+    height: 600px;
+    background-color: #DE3C4B;
+    border-radius: 500px 0 0 500px;
+    filter: blur(100px);
+    -webkit-filter: blur(100px);
+    mix-blend-mode: normal;
+  }
+  
+  .blueCircleMobileCon {
+    overflow-x: hidden;
+    position: absolute;
+    top: 900px;
+    width: 100%;
+    height: 1500px;
+    z-index: 2;
+  }
+  
+  .blueCircleMobile {
+    overflow-x: hidden;
+    z-index: 2;
+    left: 0;
+    margin-top: 500px;
+    width: 500px;
+    height: 500px;
+    background-color: #3C69DE;
+    border-radius: 0 500px 500px 0;
+    filter: blur(200px);
+    -webkit-filter: blur(200px);
+    mix-blend-mode: normal;
+  }
+  
+  .purpleCircleMobile {
+    z-index: 2;
+    right: 0;
+    position: absolute;
+    top: 1700px;
+    overflow: hidden;
+    width: 500px;
+    height: 1000px;
+    background-color: #db3cde6b;
+    border-radius: 500px 0 0 500px;
+    filter: blur(200px);
+    -webkit-filter: blur(200px);
+    mix-blend-mode: normal;
+  }
+  
+  .greenMobileCon {}
+  
+  .blueDots {
+    z-index: 3;
+    left: 0;
+    position: absolute;
+    top: 1300px;
+    height: 440px;
+    width: 100%;
+    background-repeat: repeat-x;
+    background-image: url("../img/redDotBlue.svg");
+  }
+  
+  .blueDotsBottom {
+    z-index: 2;
+    left: 0;
+    position: absolute;
+    bottom: 50px;
+    height: 440px;
+    width: 100%;
+    background-repeat: repeat-x;
+    background-image: url("../img/redDotBlue.svg");
+  }
+  
+  .purpleCircleBottom {
+    z-index: 2;
+    left: 0;
+    position: absolute;
+    bottom: 217px;
+    overflow: hidden;
+    width: 500px;
+    height: 500px;
+    background-color: #db3cde6b;
+    border-radius: 0 500px 0 0;
+    filter: blur(200px);
+    -webkit-filter: blur(200px);
+    mix-blend-mode: normal;
+  }
+  
+  .blueCircleBottom {
+    z-index: 2;
+    right: 0;
+    position: absolute;
+    bottom: 0;
+    overflow: hidden;
+    width: 500px;
+    height: 500px;
+    background-color: #3C69DE;
+    border-radius: 500px 0 0 0;
+    filter: blur(200px);
+    -webkit-filter: blur(200px);
+    mix-blend-mode: normal;
+  }
+  
+  .txt2 > :global(span) {
+      display: inline-block;
+  }
+  @media (min-width: 1024px){
+
+    .description{
+        color: #FFF;
+        font-family: Inter;
+        font-size: 19px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 32px; 
+    }
+    .description > :global(span) {
+        font-weight: 400;
+    }
+
+    .txt2 > span {
+        display: inline-block;
+        background: linear-gradient(180deg, #FFF 63.84%, rgba(255, 255, 255, 0.38) 93.26%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+}
+
+  /*
+  @media (min-width: 922px) {
+    .headerTwo {
+      background: linear-gradient(0deg, rgba(4, 32, 66, 1) 0%, rgba(255, 255, 255, 1) 60%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+  
+  @media (max-width: 922px) {
+    .headerTwo {
+      color: white;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .txt2 {
+      font-size: 40px;
+      line-height: 45px;
+    }
+  }
+  */

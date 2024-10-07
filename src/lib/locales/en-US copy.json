@@ -1,0 +1,58 @@
+{
+	"navbar":{
+		"contact":"Contact us",
+		"blog":"Blog"
+	},
+	"sections":{
+		"heroSection":{
+			"headerOne":"We Do Kickass",
+			"headerSecondP1":"Web & Software",
+			"headerSecondP2":"Development",
+			"description":"Whether you dream of developing a stunning website, a game-changing mobile app, or you're in need of a custom software solution, we are here for you in crafting digital brilliance. At Techsy We turn ideas into digital excellence.",
+			"btn1":"Let’s discuss your project",
+			"littleWarning":""
+		},
+		"followingSection":{
+			"headerOne":"We specialize in the",
+			"headerSecond":"Following areas",
+			"description":"While most of our focus is on coding awesome modern web and mobile apps, we also help our clients with 360° design, online - offline marketing, and web maintenance. Top 5% talent, Buyer Protection, Always project managed"
+
+		},
+		"technologiesSection":{
+			"headerOne":"We’re on the edge of",
+			"headerSecond":"Industry leading technologies"
+		},
+		"companiesSection":{
+			"headerOne":"We are partnered with",
+			"headerSecond":"Companies that Trust Us"
+		},
+		"whySection":{
+			"headerOne":"Why choose",
+			"headerSecond":"Techsy as Your Partner?",
+			"cardLeft":{
+				"header":"No Surprises,<br />No Hidden Costs",
+				"description":"We believe in clarity and honesty.Our pricing is straightforward and transparent, with no hidden fees or surprises. We work with you to create a pricing structure that aligns with your budget and needs. You'll know exactly what you're investing in and the value you'll receive."
+			},
+			"cardMiddle":{
+				"header":"Flexible Approach,<br />Client Centered",
+				"description":"We listen to your needs and delve into the key business requirements, making your goals our goals, tailoring our solutions to exceed your expectations!"
+			},
+			"cardRight":{
+				"header":"Proven<br />Track Record",
+				"description":"Our portfolio of successful projects showcases our commitment to excellence and our ability to deliver on promises."
+			},
+			"waitingFor":"So what are you waiting for?"
+		},
+		"blogSection":{
+			"headerOne":"Our latest",
+			"headerSecond":"Blog articles"
+		},
+		"areYouReady":{
+			"headerOne":"Are You Ready",
+			"headerSecond":"To transform Your Brand?",
+			"receive":"Receive up to 1hr of free consultation and a free price estimation ",
+			"btn1":"Book a meeting",
+			"btn2":"Or write to us"
+		}
+	}
+}

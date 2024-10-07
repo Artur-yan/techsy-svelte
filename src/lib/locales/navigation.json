@@ -1,0 +1,26 @@
+{
+    "[page=about]":{
+        "en-US":"about-us",
+        "et-ET":"meist"
+    },
+    "[page=webdev]":{
+        "en-US":"web-development",
+        "et-ET":"kodulehtede-arendus"
+    },
+    "[page=mobdev]":{
+        "en-US":"mobile-development",
+        "et-ET":"mobiilirakenduste-arendus"
+    },
+    "[page=contact]":{
+        "en-US":"contact",
+        "et-ET":"kontakt"
+    },
+    "[page=marketing]":{
+        "en-US":"marketing",
+        "et-ET":"turundusteenused"
+    },
+    "blog":{
+        "en-US":"blog",
+        "et-ET":"blog"
+    }
+}

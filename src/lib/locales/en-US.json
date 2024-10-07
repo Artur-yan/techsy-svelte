@@ -1,0 +1,678 @@
+{
+	"navbar":{
+		"contact":"Contact us",
+		"blog":"Blog",
+		"about":"About us",
+		"marketing":"Marketing",
+		"mobDev":"Mobile Development",
+		"webDev":"Web Development",
+		"services":"Services"
+	},
+	"card":{
+		"discover":"Discover more"
+	},
+	"sections":{
+		"heroSection":{
+			"headerOne":"We Do Kickass",
+			"headerSecondP1":"<span>Web</span>&nbsp;<span>&</span>&nbsp;<span>Software</span>&nbsp;<br /><span>Development</span>",
+			"headerSecondP2":" ",
+			"headerSecondP1Mobile":"Web & Software<br />Development",
+			"headerSecondP2Mobile":" ",
+			"description":"qqqWhether you dream of developing a <span>stunning website</span>, a <span>game-changing mobile app</span>, or you're in need of a <span>custom software solution</span>, we are here for you in crafting digital brilliance.<br /> At Techsy We turn ideas into digital excellence.",
+			"btn1":"Let’s discuss your project",
+			"littleWarning": "Receive up to 1hr free consultation"
+
+		},
+		"socialProof":{
+			"headerOne":"What our",
+			"headerSecond":"Clients and partners think",
+			"headerSecondMobile":"Clients think",
+			"description":"",
+			"data":[
+				{
+					"description":"Working with Techsy has always been a pleasure. Their marketing and sales strategies over the years have helped us boost our sales through the roof.<br/>We found many new leads through their lead generation program and let me tell you, finding software development prospects isn’t easy!"
+				},
+				{
+					"description":"We had an urgent optimization related issue on the website and our SEO was suffering due to that.<br/>Techsy developers run an audit, sent the report, quickly proposed a strategy and implemented given strategy. Now we’re #1 on Google! "
+				},
+				{
+					"description":"Not only are the guys at Techsy technologically experienced, but they can also come up with fresh bright ideas to boost your brand identity even further. <br/>We needed urgent assistance with marketing related setups and they came up with a solution that works!"
+				}
+			]
+		},
+		"socialProofForWeb":{
+			"headerOne":"What our",
+			"headerSecond":"Clients and partners think",
+			"headerSecondMobile":"Clients think",
+			"description":"",
+			"data":[
+				{
+					"description":"Working with Techsy has always been a pleasure. They’ve not only helped us with development related tasks, but they’ve also helped us grow our brand identity.<br/>We found many new leads through their lead generation program and let me tell you, finding software development prospects isn’t easy!"
+				},
+				{
+					"description":"We had an urgent optimization related issue on the website and our SEO was suffering due to that.<br/>Techsy developers run an audit, sent the report, quickly proposed a strategy and implemented given strategy. Now we’re #1 on Google!"
+				},
+				{
+					"description":"Not only are the guys at Techsy technologically experienced, but they can also come up with fresh bright ideas to boost your brand identity even further.<br/>We needed urgent assistance with devops related tasks, their team hopped on board and we found a solution that works."
+				}
+			]
+		},
+		"rocketSection":{
+			"headerOne":" ",
+			"headerSecondP1":"<span>Not&nbsp;</span><span>enough&nbsp;</span><span>clients&nbsp;</span><span>in&nbsp;</span><span>time&nbsp;</span><span>of&nbsp;</span><span>crisis?&nbsp;</span><span>Not&nbsp;</span><span>seeing&nbsp;</span><span>any&nbsp;</span><span>results?",
+			"headerSecondP2":" ",
+			"headerSecondP1Mobile":"Not enough clients in the time of crisis?",
+			"headerSecondP2Mobile":" ",
+			"description":"Is your business facing marketing related hurdles in challenging times? We have just the <span>solution</span> for you - <span>increasing</span> your <span>brand visibility</span>, dominating <span>social media</span> and securing <span>valuable B2B and B2C contacts</span> in the <span>Estonian</span>, <span>Finnish</span> and <span>Baltic<span> markets.",
+			"btn1":"I want better results",
+			"littleWarning": "Receive up to 1hr free consultation"
+		},
+		"followingSection":{
+			"headerOne":"We specialize in the",
+			"headerSecond":"Following areas",
+			"description":"While most of our focus is on coding awesome modern web and mobile apps, we also help our clients with 360° design, online - offline marketing, and web maintenance. Top 5% talent, Buyer Protection, Always project managed",
+			"data":[
+				{
+					"title":"Web development",
+					"text":"Using most modern technology we create Single Page Applications (SPA) and websites. From small template-driven sites to enterprise solutions."
+				},
+				{
+					"title":"Mobile development",
+					"text":"In most cases today, we build Progressive Web Apps (PWA) that are more affordable but we also have in-house expert hybrid and native app developers."
+				},
+				{
+					"title":"Custom Software development",
+					"text":"Creative idea to execution. Whether it's a basic CMS system or a complicated CRM or ERP system, We'll help you launch your idea to new heights!"
+				},
+				{
+					"title":"UX/UI Design",
+					"text":"Creating useful and usable UI/UX designs for software on any stage; visual, interaction, and information designs that provide better accessibility."
+				},
+				{
+					"title":"Website maintenance",
+					"text":"Ongoing or monthly updates, backups, site monitoring, analytics, support and web optimization to enhance web performance and speed."
+				},
+				{
+					"title":"Marketing & Sales",
+					"text":"Grow your business, leads, traffic, revenue and exposure with Techsy."
+				}
+			]
+		},
+		"whatWeSection":{
+			"headerOne":"What can we",
+			"headerSecond":"Do for your business?",
+			"description":"In addition to our marketing services, we also specialize in developing bespoke custom website that will boost your google ranking and conversions even higher.",
+			"data":[
+				{
+					"title":"Google Ads<br />PPC Campaigns",
+					"text":"Elevate your online visibility and drive targeted traffic with precision-engineered Google Ads PPC campaigns, ensuring your brand stands out where it matters most."
+				},
+				{
+					"title":"B2B Contacts and<br />Lead Generation",
+					"text":"Unlock unparalleled growth opportunities by tapping into our extensive network, providing strategic B2B contacts and lead generation that propels your business forward."
+				},
+				{
+					"title":"Social Media<br />Campaigns",
+					"text":"Ignite conversations and cultivate brand loyalty with our dynamic social media campaigns, designed to captivate your audience and amplify your online presence."
+				},
+				{
+					"title":"Search-Engine<br />Optimization",
+					"text":"Propel your business to the forefront of search engine results with our expert SEO strategies, ensuring your brand shines in the digital landscape."
+				},
+				{
+					"title":"Automated Email<br />Systems",
+					"text":"Streamline your communication and engage your audience effortlessly with our automated email systems, delivering personalized messages that resonate and drive action."
+				},
+				{
+					"title":"Creative Brand<br />Awareness",
+					"text":"Our innovative campaigns foster brand recognition and leave a lasting impression on your audience."
+				}
+			]
+		},
+		"technologiesSection":{
+			"headerOne":"We’re on the edge of",
+			"headerSecond":"Industry leading technologies"
+		},
+		"companiesSection":{
+			"headerOne":"We are partnered with",
+			"headerSecond":"Companies that Trust Us"
+		},
+		"whySection":{
+			"headerOne":"Why choose",
+			"headerSecond":"Techsy as Your Partner?",
+			"data":[
+				{
+					"title":"Buyer Protection",
+					"text":"Our Buyer Protection guarantee safeguards your investment. From transparent pricing to project milestones, we prioritize your satisfaction, providing a safety net for your digital endeavors."
+				},
+				{
+					"title":"Time Tracking",
+					"text":"With advanced time tracking tools, we provide transparent insights into how every minute is invested, guaranteeing your project stays on course and on schedule."
+				},
+				{
+					"title":"No Surprises,<br/>No Hidden Costs",
+					"text":"We believe in clarity and honesty.<br/>Our pricing is straightforward and transparent, with no hidden fees or surprises. We work with you to create a pricing structure that aligns with your budget and needs. You'll know exactly what you're investing in and the value you'll receive."
+				},
+				{
+					"title":"Always Project Managed",
+					"text":"Our dedicated project managers ensure clear communication, efficient workflows, and a seamless experience. Rest easy, knowing your vision is expertly guided from concept to reality"
+				},
+				{
+					"title":"Quality Over Quantity",
+					"text":"To uphold this commitment, we limit ourselves to working on a maximum of 2-3 projects simultaneously.<br/>This deliberate focus ensures our team can dedicate the time and attention needed for each project, guaranteeing the highest level of quality in every aspect of our work."
+				},
+				{
+					"title":"Top Talent",
+					"text":"We pride ourselves on assembling a team of top-tier talent. Our professionals bring a wealth of expertise and innovation to every project, ensuring that you benefit from the best minds in the industry."
+				}
+			]
+		},
+		"blogSection":{
+			"headerOne":"Our latest",
+			"headerSecond":"Blog articles"
+		},
+		"areYouReady":{
+			"headerOne":"Are You Ready",
+			"headerSecond":"To transform Your Brand?",
+			"receive":"Receive up to 1hr of free consultation and a free price estimation ",
+			"receiveMobile":"Receive up to 1hr of free consultation<br />and a free price estimation ",
+			"btn1":"Book a meeting",
+			"btn1Mobile":"Book a meeting",
+			"btn2":"Or write to us",
+			"and":"or"
+		},
+		"howDoWe":{
+			"headerOne":"How do",
+			"headerSecond":"We do it?",
+			"data":[
+				{
+					"leftPoint":"0",
+					"width":"278",
+					"desc":{
+						"content":"As part of the consultation, we will carry out an audit, mapping the gaps and future strategies.",
+						"contetnMobile":"As part of the consultation, we will<br/>carry out and audit, mapping the<br/>gaps and future strategies."
+					},
+					"header":{
+						"content":"Consultation<br/>and Analysis"
+					}
+				},
+				{
+					"leftPoint":"238",
+					"width":"280",
+					"desc":{
+						"content":"We will develop a tailor-made strategy for you that we could implement."
+					},
+					"header":{
+						"content":"Strategy<br/>Proposal"
+					}
+				},
+				{
+					"leftPoint":"491",
+					"width":"253",
+					"desc":{
+						"content":"We agree on a budget that is in<br/>line with our objectives and planned strategies."
+					},
+					"header":{
+						"content":"Budget<br/>Alignment"
+					}
+				},
+				{
+					"leftPoint":"710",
+					"width":"296",
+					"desc":{
+						"content":"Implement approved strategies, optimizing and making changes to improve our results."
+					},
+					"header":{
+						"content":"Strategy<br/>Implementation"
+					}
+				},
+				{
+					"leftPoint":"970",
+					"width":"255",
+					"desc":{
+						"content":"Detailed reports on key<br/>perfomance indicators giving<br/>you a complete overview."
+					},
+					"header":{
+						"content":"Regular Reporting<br/>and Feedback"
+					}
+				}
+			]
+		},
+		"devProcessSection":{
+			"headerOne":"Our",
+			"headerSecond":"Development proccess",
+			"desc":"In addition to development related works, we also offer ongoing website management and maintenance<br/>services to ensure that your website is secure and fully operational around the clock.",
+			"data":[
+				{
+					"leftPoint":"0",
+					"width":"279",
+					"desc":{
+						"content":"Collaboration between managers<br/>and the client to determine all the<br/>goals and objectives."
+					},
+					"header":{
+						"content":"Planning,<br/>Consultation"
+					}
+				},
+				{
+					"leftPoint":"238",
+					"width":"280",
+					"desc":{
+						"content":"Creating a custom, user-friendly<br/>interface that is visually appealing<br/>and easy to navigate."
+					},
+					"header":{
+						"content":"Wireframing,<br/>UX/UI Design"
+					}
+				},
+				{
+					"leftPoint":"486",
+					"width":"268",
+					"desc":{
+						"content":"The website is developed using<br/>graphic elements and the site<br/>hierarchy previously designed."
+					},
+					"header":{
+						"content":"Development<br/>Phase"
+					}
+				},
+				{
+					"leftPoint":"710",
+					"width":"296",
+					"desc":{
+						"content":"Preparing the site for public access<br/>with finishing touches, deep testing,<br/>and other QA related checks."
+					},
+					"header":{
+						"content":"Testing &<br/>Launching"
+					}
+				},
+				{
+					"leftPoint":"969",
+					"width":"262",
+					"desc":{
+						"content":"Our team continues to monitor<br/>the solution in an ongoing<br/>capacity."
+					},
+					"header":{
+						"content":"Maintenance,<br/>Regular Updating"
+					}
+				}
+			]
+		},
+		"devProcessSectionMobile":{
+			"headerOne":"Our Mobile App",
+			"headerSecond":"Development proccess",
+			"data":[
+				{
+					"leftPoint":"0",
+					"width":"279",
+					"desc":{
+						"content":"Collaboration between managers<br/>and the client to determine all the<br/>goals and objectives."
+					},
+					"header":{
+						"content":"Planning,<br/>Consultation"
+					}
+				},
+				{
+					"leftPoint":"238",
+					"width":"280",
+					"desc":{
+						"content":"Creating a custom, user-friendly<br/>interface that is visually appealing<br/>and easy to navigate."
+					},
+					"header":{
+						"content":"Wireframing,<br/>UX/UI Design"
+					}
+				},
+				{
+					"leftPoint":"486",
+					"width":"268",
+					"desc":{
+						"content":"The app is developed using<br/>graphic elements and the site<br/>hierarchy previously designed."
+					},
+					"header":{
+						"content":"Development<br/>Phase"
+					}
+				},
+				{
+					"leftPoint":"710",
+					"width":"296",
+					"desc":{
+						"content":"Preparing the app for public access<br/>with finishing touches, deep testing,<br/>and other QA related checks."
+					},
+					"header":{
+						"content":"Testing &<br/>Launching"
+					}
+				},
+				{
+					"leftPoint":"969",
+					"width":"262",
+					"desc":{
+						"content":"Our team continues to monitor<br/>the solution in an ongoing<br/>capacity."
+					},
+					"header":{
+						"content":"Maintenance,<br/>Regular Updating"
+					}
+				}
+			]
+		},
+		"aboutUsTopSection":{
+			"headerOne":" ",
+			"header2": "<span>Expert&nbsp;</span><span>Mobile&nbsp;</span><span>App&nbsp;</span><span>Development</span>",
+
+			"headerSecondP1":"<span>What&nbsp;</span><span> We&nbsp;</span><span> Do&nbsp;</span><span> & &nbsp;</span><span>Who&nbsp;</span><span>We&nbsp;</span><span>Are?&nbsp;</span>",
+			"headerSecondP2":" ",
+			"headerSecondP1Mobile":"What We Do & Who We Are?",
+			"headerSecondP2Mobile":" ",
+			"description":"Techsy is an Estonian based remote-first <span>full service web agency</span> founded in 2021, focusing on <span>web</span>-, <span>mobile</span>-, and <span>software development</span>, <span>UX/UI design</span> and <span>marketing & sales strategies</span>.<br/><br/>Funnily enough, originally intended as a simple landing page to test a sales strategy, we quickly evolved into something much larger, driven by a shared passion for high-quality products. We’re now working on becoming bigger, better and stronger. Constatly evolving and learning new technologies and ways of the market.",
+			"btn1":"Meet the Team",
+			"littleWarning": "Receive up to 1hr free consultation",
+
+			"littleTextAfterCompany":"Our partners are our heroes. We aim to be here for you with our knowledge and expertise no matter the size of your business. We look forward to continuing building partnerships and working together to create even more solutions that drive success for you!",
+			"littleTextAfterCompanyMobile":"Our partners are our heroes. We aim to be here for you with our knowledge and expertise no matter the size of your business. We look forward to continuing building partnerships and working together to create even more solutions that drive success for you!"
+
+		},
+		"missionSection":{
+			"headerOne":"Our",
+			"headerSecond":"Mission",
+			"description":"Our mission at Techsy is to provide <span>innovative and effective software solutions</span> that help our clients achieve their business goals. We believe that software development is not just about writing code - it's about understanding our clients' unique needs and using our technical expertise to create solutions that truly meet those needs. <br/> <br/> <br/>We're committed to <span>delivering high-quality software solutions</span> that not only work flawlessly but also provide real value to our clients. We're passionate about staying at the forefront of technology and trends in the industry, constantly learning and exploring new technologies and tools, allowing us <span>to provide the best possible solutions for our clients</span>. <br/> <br/> <br/>We provide our clients with a complete range of services, UX/UI design, different marketing & sales strategies and of course ongoing support and maintenance." 
+		},
+		"ourTeamSection":{
+			"headerOne":"meet",
+			"headerSecond":"Our Core Team",
+			"dec1":"Meet our small but humble core team. Together, we bring a wealth of experience and expertise to the table, and our network of freelancers enables us to tap into a wider range of skills and capabilities to ensure that every project we undertake is a success.",
+			"dec1Mobile":"Meet our small but humble core team. Together, we bring a wealth of experience and expertise to the table, and our network of freelancers enables us to tap into a wider range of skills and capabilities to ensure that every project we undertake is a success.",
+			"dec2":"With a focus on collaboration, communication, and transparency, we work closely with our clients throughout the entire development process to ensure that they're always in the loop and have a say in the final product. Our team of experienced developers, designers, and project managers are dedicated to delivering high-quality work on time and on budget.",
+			"dec2Mobile":"With a focus on collaboration, communication, and transparency, we work closely with our clients throughout the entire development process to ensure that they're always in the loop and have a say in the final product. Our team of experienced developers, designers, and project managers are dedicated to delivering high-quality work on time and on budget.",
+			"data":[
+				{
+					"text":"With a focus on timelines and commitment to client satisfaction, he leads our projects with finesse, ensuring milestones are met and every project unfolds with efficiency."
+				},
+				{
+					"text":"With a focus on SMM, PPC, photography and videography, she blends art and strategy, crafting engaging targeted ad campaigns that elevate your brand visibility."
+				},
+				{
+					"text":"With an eye for elegance and a commitment to seamless user journeys, she crafts designs that not only please the eye but elevate the overall UX to new heights."
+				},
+				{
+					"text":"The architect behind the scenes who turns complex algorithms into elegant solutions. Crafting infrastructure ensures reliability and scalability."
+				},
+				{
+					"text":"A coding virtuoso who navigates seamlessly between server-side logic with node.js and crafting dynamic user interfaces with vue.js."
+				},
+				{
+					"text":"A tech maestro crafting lightning-fast, responsive interfaces with Svelte and driving robust backend functionalities with node.js. Ensuring our solutions look sleek and perform with efficieny."
+				},
+				{
+					"text":"The creative force behind our WordPress projects and Angular-powered interfaces. They contribute youthful energy to our team, ensuring your WordPress websites work flawlessly."
+				}
+			]
+		},
+		"whatSpecializeSection":{
+			"headerOne":"What",
+			"headerSecond":"We specialize in",
+
+			"data":[
+				{
+					"title":"Native Mobile Applications",
+					"text":"Imagine a website that feels as smooth and fast as a mobile app, where content seamlessly flows, and transitions are instant. We create web experiences where everything loads in a blink, navigation is effortless, and your users stay engaged with your content without a moment's interruption."
+				},
+				{
+					"title":"Hybrid Mobile Applications",
+					"text":"If you're looking for a beautifully designed, ready-to-go website that can be customized to your unique brand, a WordPress website template is your ideal choice. You'll get all the benefits of a professionally designed site without the high costs, making it the perfect solution for anyone wanting to shine online."
+				},
+				{
+					"title":"IoT Mobile Applications",
+					"text":"Unlike pre-designed templates, custom websites are meticulously tailored to your unique vision and needs. They're perfect for businesses seeking a one-of-a-kind online presence that reflects their brand, entrepreneurs with a specific vision, and organizations that require specialized functionalities."
+				},
+				{
+					"title":"Progressive Web Apps",
+					"text":"Websites that perform like apps. PWAs load quickly, work offline, and provide seamless interactions, ensuring your users enjoy an app-like experience directly from their web browsers. It offers a rich, app-like experience while being cost-effective, easy to maintain, and highly accessible."
+				}
+			]
+		},
+		"WeOffer":{
+			"headerOne":"What solutions",
+			"headerSecond":"Do we offer",
+			"description":"Our team thrives on the opportunity to create custom web applications that cater precisely to your needs, ensuring your app isn't just functional but exceptional, because your imagination is our only limit.",
+
+			"data":[
+				{
+					"title":"Single Page Applications",
+					"text":"Imagine a website that feels as smooth and fast as a mobile app, where content seamlessly flows, and transitions are instant. We create web experiences where everything loads in a blink, navigation is effortless, and your users stay engaged with your content without a moment's interruption."
+				},
+				{
+					"title":"Progressive Web Apps",
+					"text":"Websites that perform like apps. PWAs load quickly, work offline, and provide seamless interactions, ensuring your users enjoy an app-like experience directly from their web browsers. It offers a rich, app-like experience while being cost-effective, easy to maintain, and highly accessible."
+				},
+				{
+					"title":"Wordpress Websites",
+					"text":"If you're looking for a beautifully designed, ready-to-go website that can be customized to your unique brand, a WordPress website template is your ideal choice. You'll get all the benefits of a professionally designed site without the high costs, making it the perfect solution for anyone wanting to shine online."
+				},
+				{
+					"title":"Custom Websites",
+					"text":"Unlike pre-designed templates, custom websites are meticulously tailored to your unique vision and needs. They're perfect for businesses seeking a one-of-a-kind online presence that reflects their brand, entrepreneurs with a specific vision, and organizations that require specialized functionalities."
+				}
+			]
+		},
+		"whatCanSection":{
+			"headerOne":"What",
+			"headerSecond":"We can do for you",
+
+			"data":[
+				{
+					"title":"Single Page Applications",
+					"text":"Imagine a website that feels as smooth and fast as a mobile app, where content seamlessly flows, and transitions are instant. We create web experiences where everything loads in a blink, navigation is effortless, and your users stay engaged with your content without a moment's interruption."
+				},
+				{
+					"title":"Progressive Web Apps",
+					"text":"Websites that perform like apps. PWAs load quickly, work offline, and provide seamless interactions, ensuring your users enjoy an app-like experience directly from their web browsers. It offers a rich, app-like experience while being cost-effective, easy to maintain, and highly accessible."
+				},
+				{
+					"title":"Wordpress Websites",
+					"text":"If you're looking for a beautifully designed, ready-to-go website that can be customized to your unique brand, a WordPress website template is your ideal choice. You'll get all the benefits of a professionally designed site without the high costs, making it the perfect solution for anyone wanting to shine online."
+				},
+				{
+					"title":"Custom Websites",
+					"text":"Unlike pre-designed templates, custom websites are meticulously tailored to your unique vision and needs. They're perfect for businesses seeking a one-of-a-kind online presence that reflects their brand, entrepreneurs with a specific vision, and organizations that require specialized functionalities."
+				}
+			]
+		},
+		"haveAnswerSection":{
+			"header1P1":"Got a question?",
+			"header1P2":"We’ve the answer.",
+			"dec":" We’re here to turn your aspirations into achievements.<br/>Reach out today and let’s build something extraordinary. "
+		},
+		"mobileDevCards":{
+			"headerOne":"What sort of applications",
+			"headerSecond":"We develop?",
+			"description":"Our team thrives on the opportunity to create custom mobile apps that cater precisely to your needs,<br/> ensuring your app isn't just functional but exceptional, because your imagination is our only limit.",
+
+			"data":[
+				{
+					"title":"Native Mobile Applications",
+					"text":"Experience the pinnacle of performance and seamless integration with our Native Mobile Applications. Tailored for specific platforms like iOS and Android, these apps maximize device capabilities, delivering a rich and optimized user experience."
+				},
+				{
+					"title":"Hybrid Mobile Applications",
+					"text":"Enjoy the best of both worlds with Hybrid Mobile Apps. These apps combine the efficiency of web technologies with native capabilities, providing a cost-effective solution without compromising on performance."
+				},
+				{
+					"title":"IoT Mobile Applications",
+					"text":"Enter the realm of connected experiences, seamlessly integrate your mobile devices with the Internet of Things, unlocking a world of possibilities where your apps interact with smart devices, creating a truly interconnected ecosystem."
+				},
+				{
+					"title":"Progressive Web Apps",
+					"text":"Blurring the line between web and native applications, PWAs offer a responsive and engaging user experience. They work offline, load quickly, and provide the convenience of a native app without the need for installation."
+				}
+			]
+		}
+
+	},
+	"panels":{
+		"topPanel":{
+			"orMobile_XS":"Or Schedule a Video Meeting",
+			"orMobile":"Or Schedule a Video Meeting",
+			"or":"Or",
+			"btn":"Let’s discuss your project"
+		}
+	},
+	"contactSteps":{
+		"firstStep":{
+			"figure_your_needs": "Let's figure out your needs?",
+			"first_step_text": "By asking detailed questions, we want to make sure we fully understand your needs and goals, so we can ensure that we're on the same page before we get started.",
+			"first_step_text_mobile": "By asking detailed questions, we want to make sure we fully understand your needs and goals before we get started."
+		}
+	},
+	"common":{
+		"nda":{
+			"destop": "I want to protect my idea by signing an NDA.",
+			"mobile": "I want to protect my idea by signing an NDA."
+		},
+		"would_call":{
+			"desktop": "Would you like us to call you?"
+		}
+	},
+	"landing_page": {
+		"mobdev":{
+			"header2": "<span>Expert&nbsp;</span><span>Mobile&nbsp;</span><span>App</span><span>Development</span>",
+			"header2Mobile": "Expert<br/>Mobile App Development",
+			"header3": "For iOS and Android",
+			"description": "Looking for <span>expert mobile app developers?</span><br />Our team of talented developers have years of experience in creating cutting-edge mobile <span>apps</span> for both <span>iOS</span> and <span>Android</span> platforms. We're here to help you succeed in the mobile marketplace.",
+			"btnText":"I need a cool mobile app"
+		},
+		"webdev":{
+
+			"header2": "<span>Kickass&nbsp;</span><span>Custom&nbsp;</span><span>Websites&nbsp;</span>",
+			"header2Mobile": "Kickass Custom Websites",
+			"header3": "That Shine",
+			"description": "We specialize in creating <span>custom web solutions</span> that meet the unique needs of our clients, where we create <span>high-quality dynamic websites</span> that meet your business needs. On this page you will hopefully learn a thing or two about our development process.",
+			"btnText":"I want a free estimation",
+
+			"dev1": "Planning Phase",
+			"dev2": "Wireframing, UX/UI Design",
+			"dev3": "Development Phase",
+			"dev4": "Testing & Launching",
+			"dev5": "Maintenance, Regular Updating",
+		
+			"description1": "We specialize in creating custom web solutions that meet the unique needs of our clients, where we create high-quality dynamic websites that meet your business needs. On this page you will hopefully learn a thing or two about our development process.",
+			"description2": "Our team thrives on the opportunity to create custom mobile apps that cater precisely to your needs, ensuring your app isn't just functional but exceptional, because your imagination is our only limit.",
+			"description3": "We of course also provide ongoing maintenance and support services to ensure that the app remains up-to-date, secure, and fully functional at all times.",
+			"description4": "Read more about app maintenance here",
+
+			"devdesc1": "Close collaboration between the development team and the client to determine goals and objectives.",
+			"devdesc2": "Creating a custom, user-friendly interface that is visually appealing and easy to navigate.",
+			"devdesc3": "The website is created using graphic elements and the site hierarchy previously designed. ",
+			"devdesc4": "Preparing the site for public access with finishing touches, deep testing, code validation and other QA related checks.",
+			"devdesc5": "Our team continues to monitor the solution in an ongoing capacity. Maintenace is crucial.",
+
+			"cardHead1":"Single Page Applications",
+			"cardHead2":"Progressive Web Apps",
+			"cardHead3":"Wordpress Websites",
+            "cardHead4":"Custom Websites",
+            
+			"cardDesc1":"Imagine a website that feels as smooth and fast as a mobile app, where content seamlessly flows, and transitions are instant. We create web experiences where everything loads in a blink, navigation is effortless, and your users stay engaged with your content without a moment's interruption.",
+			"cardDesc2":"Websites that perform like apps. PWAs load quickly, work offline, and provide seamless interactions, ensuring your users enjoy an app-like experience directly from their web browsers. It offers a rich, app-like experience while being cost-effective, easy to maintain, and highly accessible.",
+            "cardDesc3":"If you're looking for a beautifully designed, ready-to-go website that can be customized to your unique brand, a WordPress website template is your ideal choice. You'll get all the benefits of a professionally designed site without the high costs, making it the perfect solution for anyone wanting to shine online.",
+            "cardDesc4":"Unlike pre-designed templates, custom websites are meticulously tailored to your unique vision and needs. They're perfect for businesses seeking a one-of-a-kind online presence that reflects their brand, entrepreneurs with a specific vision, and organizations that require specialized functionalities."
+		}
+	},
+	"home": "Home",
+	"pricing": "Contact",
+	"we_specialise": "We specialise in",
+	"web_dev_header": "Web & Sowftware <br /> Development",
+	"info_technology_mobile": "Info<br/>Technology",
+	"services_from": "Services from 0 to 100",
+	"hero_text": "Take the software path to your digital future.<br/>Our team consists of experienced project managers, business analysts, designers and web developers that are on top of the latest trends, tools, and techniques, helping you build up-to-date products efficently.<br/><b class='font-bold'>Techsy</b> is an agency that builds brands from every angle. Today, tomorrow and years from now.",
+	"discuss": "Let's discuss your project",
+	"free_consultation": "Receive up to 1hr free consultation",
+	"free_consultation_mobile": "Receive up to<br/>1hr free consultation",
+	"fallowing_areas": "Following areas",
+	"technologies_text": "Our core focus centers on creating exceptional modern web and mobile applications. Nonetheless, we provide our clients with a complete range of services, including stunning 360° UX/UI design solutions, online marketing strategies, consultation services, and web maintenance support. Our team is comprised of vetted professionals, ranking in the top 1% of their respective fields. We provide Buyer Protection to ensure our clients' satisfaction and All of our projects are always project managed.",
+	"we_work_with": "We work with",
+	"leading_technologies": "Industry leading technologies",
+	"companies": "Companies that trust us",
+	"web_development": "Web development",
+	"web_development_text": "Using most modern technology we create Single Page Applications (SPA) and websites. From small template-driven sites to enterprise solutions.",
+	"custom_software": "Custom Software development",
+	"custom_software_text": "Creative idea to execution. Whether it's a basic CMS system or a complicated CRM or ERP system, We'll help you launch your idea to new heights!",
+	"mobile_development": "Mobile development",
+	"mobile_development_text": "In most cases today, we build Progressive Web Apps (PWA) that are more affordable but we also have in-house expert hybrid and native app developers.",
+	"website_maintenance": "Website maintenance",
+	"website_maintenance_text": "Ongoing or monthly updates, backups, site monitoring, analytics, support and web optimization to enhance web performance and speed.",
+	"ux_ui_design": "UX/UI Design",
+	"ux_ui_design_text": "Creating useful and usable UI/UX designs for software on any stage; visual, interaction, and information designs that provide better accessibility.",
+	"marketing_sales": "Marketing & Sales",
+	"marketing_sales_text": "Grow your business, leads, traffic, revenue and exposure with Techsy.",
+	"figure_your_needs": "Let's figure out your needs?",
+	"name": "Full Name",
+	"email": "Email address",
+	"phone": "Phone number",
+	"project_description": "Project description",
+	"nda": "I want to protect my idea by signing an NDA",
+	"nda_mobile": "I want to protect my idea by signing an NDA",
+	"nda_tooltip": "Before we discuss any details about your project you can request to sign a Non Disclosure Agreement",
+	"all_rights": "All Rights Reserved.",
+	"first_step_text": " By asking detailed questions, we want to make sure we fully understand your needs and goals, so we can ensure that we're on the same page before we get started.",
+	"first_step_text_alt": "Our local project manager will be in touch with you.<br /> Receive up to <b class='font-semibold'>1h of free consultation.</b>",
+	"first_step_text_mobile": "Our local project manager will be<br />in touch with you. Receive up to<br /><b class='font-semibold'>1h of free consultation.</b>",
+	"first_question": "1. How tech savy are you?",
+	"first_question_option_1": "I'm not very familiar with technology",
+	"first_question_option_2": "I'm familiar with some terminology",
+	"first_question_option_3": "I already have all the necessary documentation and I know what I need",
+	"second_question": "2. What is the current stage of your software development process?",
+	"second_question_option_1": "I have an idea",
+	"second_question_option_2": "I have a prototype/specification",
+	"second_question_option_3": "I have a designed solution",
+	"second_question_option_4": "MVP",
+	"third_question": "3. What type of software solution would you like to develop with Techsy?",
+	"third_question_option_1": "I need a basic website. Probably on a template.",
+	"third_question_option_2": "I need a custom website designed and developed from scratch.",
+	"third_question_option_3": "I need custom software development (ERP, CRM, SaaS etc).",
+	"third_question_option_4": "I need Mobile App Development (PWA, Hybrid, Native etc).",
+	"third_question_option_5": "I need UX/UI Design. Web Design, Branding, Logos, Illustrations.",
+	"third_question_option_6": "I need marketing or sales services. Google Ads, LinkedIn, B2B contacts, SMM, PCC.",
+	"third_question_option_7": "I need maintenance related services. Optimization, SEO, Updating, Migrating.",
+	"fourth_question": "4. What is the expected duration of your project?",
+	"fifth_question": "5. Lastly we need your details",
+	"fifth_question_text": "Your personal data will be handled securely and won't be available to third parties.<br />Our website is protected by reCAPTCHA and the Google <b class='font-bold'><a href='https://policies.google.com/privacy'>Privacy Policy</a></b> and <b class='font-bold'><a href='https://policies.google.com/terms'>Terms of Service</a></b> apply.",
+	"fifth_question_text_mobile": "Your personal data will be handled securely and won't be<br />available to third parties.<br />Our website is protected by reCAPTCHA and the<br />Google <b class='font-bold'><a href='https://policies.google.com/privacy'>Privacy Policy</a></b> and <b class='font-bold'><a href='https://policies.google.com/terms'>Terms of Service</a></b> apply.",
+	"thanks_intrest": "Thank you for interest! <br />We will contact you shortly.",
+	"expert_contact": "An expert contacts you shortly after having analyzed your business requirements.",
+	"required_nda": "When required by you, we sign an NDA to ensure the highest privacy level;",
+	"pre_sale_manager": "A Pre-Sales Manager submits a comprehensive project proposal. It may include estimates, timelines, lists of CVs, etc., for a particular situation;",
+	"team_assembled": "The team assembled for you IT project can start delivering within ten business days.",
+	"month": "month",
+	"less_than_month": "Less than a month",
+	"months": "months",
+	"24_months": "24+ months",
+	"year": "year",
+	"years": "years",
+	"next": "Next",
+	"previous": "Previous",
+	"get_quote": "Get a quote",
+	"cancel": "Cancel",
+	"back": "Go Back",
+	"min_read": "min read",
+	"blog_articles": "Blog articles",
+	"our_latest": "Our latest",
+	"read_article": "Read article",
+	"keywords": "Keywords:",
+	"blogs": "Blogs",
+	"sort": "Sort",
+	"january": "January",
+	"february": "February",
+	"march": "March",
+	"april": "April",
+	"may": "May",
+	"june": "June",
+	"july": "July",
+	"august": "August",
+	"september": "September",
+	"october": "October",
+	"november": "November",
+	"december": "December",
+	"share": "Share",
+	"email_copied": "Email address copied to clipboard!",
+	"phone_copied": "Phone number copied to clipboard!",
+	"name_placeholder": "The Great and Powerful Oz",
+	"email_placeholder": "abracadabra@magicmail.com",
+	"phone_placeholder": "+372 555 123 45",
+	"description_placeholder": "Please provide us with all the details about your needs. The more comprehensive and detailed your information, the better we can assist you",
+	"submit": "Send"
+}

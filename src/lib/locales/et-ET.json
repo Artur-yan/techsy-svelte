@@ -1,0 +1,686 @@
+{
+	"navbar":{
+		"contact":"Kontakt",
+		"blog":"Blog",
+		"about":"Meist",
+		"marketing":"Turundusteenused",
+		"mobDev":"Mobiilirakenduste arendus",
+		"webDev":"Kodulehtede arendus",
+		"services":"Teenused"
+	},
+	"card":{
+		"discover":"Uuri lisaks"
+	},
+	"sections":{
+		"heroSection":{
+			"headerOne":"Me teeme kickass tasemel",
+			"headerSecondP1":"<span>Veebiarendust</span><br /><span>ja</span>&nbsp;<span>UX,UI</span>&nbsp;<span>disaini</span> ",
+			"headerSecondP2":" ",
+			"headerSecondP1Mobile":"Kodulehtede arendust ja UX/UI disaini",
+			"headerSecondP2Mobile":" ",
+			"description":"Arendame <span>jalustrabavaid kodulehti</span>, <span>turgumuutvaid mobiilirakendusi</span> ja Teie soovidele ja nõuetele vastavaid <span>rätseplahendusena valminud tarkvaralahendusi.</span> <br />Techsy muudab Teie ideed <span>digitaalseteks kunstiteoseteks.</span>",
+			"btn1":"Kirjuta Meile",
+			"littleWarning": "Kuni 1h tasuta konsultatsiooni"
+		},
+		"rocketSection":{
+			"headerOne":" ",
+			"headerSecondP1":"<span>Kriisi&nbsp;</span><span>ajal&nbsp;</span><span>kliente</span><br /><span>vähe?&nbsp;</span><span>Ei&nbsp;</span><span>näe</span><br /><span>soovitud&nbsp;</span><span>tulemusi?",
+			"headerSecondP2":" ",
+			"headerSecondP1Mobile":"Kriisi ajal kliente vähe? Tulemused kehvad?",
+			"headerSecondP2Mobile":" ",
+			"description":"Kui Teie ettevõte seisab keerulistel aegadel turunduslike takistuste ees, on meil olemas lahendused - <br/> <span>Suurendame Teie brändi nähtavust</span>, <span>domineerime sotsiaalmeedias</span> ja kindlustame Teile <span>väärtuslikud B2B ja B2C ärikontaktid</span> Eesti, Soome ja Baltikumi turul. ",
+			"btn1":"Tahan paremaid tulemusi",
+			"littleWarning": "Receive up to 1hr free consultation"
+		},
+		"socialProof":{
+			"headerOne":"Loe lähemalt, mida meie",
+			"headerSecond":"Partnerid ja kliendid arvavad",
+			"headerSecondMobile":"Kliendid arvavad",
+			"description":"",
+			"data":[
+				{
+					"description":"“Koostöö Techsyga on alati olnud meeldiv, otsekohene ja kasumlik. Nende turundusstrateegiad on aastate jooksul meile kasuks tulnud.<br/>Oleme läbi nende lead generation programmi endale lugematult müügivihjeid leidnud ja oleme teenusega väga rahul.”"
+				},
+				{
+					"description":"“Meil oli kodulehel kiireloomuline optimeerimisega seotud probleem tänu millele kannatas meie SEO.<br/>Techsy veebiarendajad viisid läbi auditi, saatsid aruande ning pakkusid kiiresti strateegilise lahenduse ja asusime tegutsema. Oleme nüüd Googles #1!”"
+				},
+				{
+					"description":"“Techsy veebiagentuur ei ole mitte ainult tehnoloogiliselt tasemel, vaid ka turunduslikult. Värsked mõtted ja ideed aitasid meil brändi identiteeti ja nähtavust veelgi suurendada.<br/>Vajasime kiiret abi analüütilise poole pealt, ning nad pakkusid välja lahenduse, mis töötab!”"
+
+				}
+			]
+		},
+		"socialProofForWeb":{
+			"headerOne":"Loe lähemalt, mida meie",
+			"headerSecond":"Partnerid ja kliendid arvavad",
+			"headerSecondMobile":"Kliendid arvavad",
+			"description":"",
+			"data":[
+				{
+					"description":"Koostöö Techsyga on alati olnud meeldiv. Nad ei ole meid aidanud mitte ainult arendusega seotud ülesannetes, vaid on abiks olnud ka brändi identiteedi arendamisel.<br/>Lisaks, oleme läbi nende lead generation programmi endale lugematult müügivihjeid leidnud ja oleme teenusega väga rahul."
+				},
+				{
+					"description":"Meil oli kodulehel kiireloomuline optimeerimisega seotud probleem tänu millele kannatas meie SEO.<br/>Techsy veebiarendajad viisid läbi auditi, saatsid aruande ning pakkusid kiiresti strateegilise lahenduse ja asusime tegutsema. Oleme nüüd Google otsingus esikohal!"
+				},
+				{
+					"description":"Techsy veebiagentuur ei ole mitte ainult tehnoloogiliselt tasemel, vaid ka turunduslikult. Värsked mõtted ja ideed aitasid meil brändi identiteeti ja nähtavust veelgi suurendada.<br/>Vajasime serveri poole peal kiiret abi devops ülesannetes, Techsy arendajad suutsid murekoha leida ning probleemi kiirelt likvideerida."
+
+				}
+			]
+		},
+		"followingSection":{
+			"headerOne":"Oleme spetsialiseerunud",
+			"headerSecond":"Järgmistes valdkondades",
+			"description":"Kuigi enamik meie fookusest on vingete ja erakordsete kaasaegsete veebi- ja mobiilirakenduste arendusel, pakume oma klientidele ka hooldustuge, 360° UX/UI disainilahendusi, online-turundusstrateegiaid ja konsultatsiooniteenuseid. Meie meeskond koosneb vaid valitud spetsialistidest, kes kuuluvad oma valdkonna 1% tippu.",
+			"data":[
+				{
+					"title":"Kodulehtede<br />arendus",
+					"text":"Kasutades kõige kaasaegsemaid tehnoloogiaid, loome ühelehelisi rakendusi (SPA) ja nullist valminud kodulehti. Samuti arendame ka mallipõhiseid kodulehti."
+				},
+				{
+					"title":"Mobiilirakenduste arendus",
+					"text":"Enamikel juhtudel loome tänapäeval taskukohasemaid progressiivseid veebirakendusi (PWA), kuid meil on ka ettevõttesiseseid hybrid ja native iOS ning Android mobiilirakenduste arendajad."
+				},
+				{
+					"title":"Kohandatud tarkvaraarendus",
+					"text":"Loomingulisest ideest teostuseni. Olgu selleks lihtne CMS süsteem või keeruline CRM, ERP või muu süsteem, aitame Teil viia Teie idee uutesse kõrgustesse!"
+				},
+				{
+					"title":"360° UX/UI veebidisain",
+					"text":"Alateadlik otsus, kas miski tundub atraktiivne, tehakse vaid mõne hetke jooksul. Sul on võimalus teistest eristuda ja jõuda klientideni enne oma konkurente. Visuaalne identieet, graafiline disain, illustratsioon jne."
+				},
+				{
+					"title":"Kodulehtede<br />hooldus ja haldus",
+					"text":"Jooksvad või igakuised uuendused, tagavarakoopiad, veebiaplikatsiooni monitoorimine, analüüs, tugi ja veebilehtede optimeerimine, et suurendada veebilehtede jõudlust ja kiirust."
+				},
+				{
+					"title":"Internetiturundus<br />ja müük",
+					"text":"Kasvatage oma ettevõtet, liiklust, kasumit ja nähtavust Techsy abil. <br> LinkedIn, GoogleAds, Analytics4 ja konsultatsiooniteenused."
+				}
+			]
+
+		},
+		"whatWeSection":{
+			"headerOne":"Mida me",
+			"headerSecond":"Teie äri jaoks teha saame?",
+			"description":"Lisaks turundusteenustele, oleme spetsialiseerunud ka eritellimusel valminud kodulehtede loomisele, mis tõstavad teie google rankingut ja konversioone veelgi kõrgemale.",
+			"data":[
+				{
+					"title":"Google Ads<br />PPC Kampaaniad",
+					"text":"Suurendage oma nähtavust läbi Google Ad reklaamkampaaniate. Seadistame, teostame, monitoorime - kõik ühes!"
+				},
+				{
+					"title":"B2B Ärikontaktid &<br />Lead Generation",
+					"text":"Pakume strateegilisi B2B Eesti, Soome ja Baltikumi ärikontakte. Sealhulgas aitame vastavalt vajadustele koostada ka strateegia, kuidas ärikontakte enda kasuks rakendada."
+				},
+				{
+					"title":"Sotsiaalmeedia<br />Kampaaniad",
+					"text":"Kasvatage oma brändi lojaalsust meie dünaamiliste sotsiaalmeediakampaaniate abil. Loodud Teie sihtrühtma kaasamiseks ning veebipositsiooni suurendamiseks."
+				},
+				{
+					"title":"Otsingumootorite<br />Optimeerimine",
+					"text":"Ei ole uudis, et SEO on tänapäeval äri edus ülioluline. Meie SEO-strateegiate rakendamisel on Teil võimalus oma ettevõte tõsta otsingumootorites esiplaanile. "
+				},
+				{
+					"title":"Automatiseeritud<br />Email Süsteemid",
+					"text":"Kirjad lähevad spami? Madal reply-rate? Eilne mure! Seadistame Teile automatiseeritud outreach strateegiad ja süsteemid, mis on personaalsed ja jõuavad sihtrühmale otse postkasti."
+				},
+				{
+					"title":"Loominguline<br />Bränd Awareness",
+					"text":"Meie uuenduslik kampaaniad ja strateegiad edenedavad brändi tuntust ja jätavad publikule püsiva ning usaldusväärse mulje."
+				}
+			]
+
+		},
+		"technologiesSection":{
+			"headerOne":"Me töötame",
+			"headerSecond":"Juhtivate tehnoloogiatega"
+		},
+		"companiesSection":{
+			"headerOne":"Oleme partnerid",
+			"headerSecond":"Ettevõtetega, kes meid usaldavad"
+		},
+		"whySection":{
+			"headerOne":"Miks valida",
+			"headerSecond":"Techsy enda Partneriks?",
+			"data":[
+				{
+					"title":"Ostjakaitse",
+					"text":"Meie ostjakaitsegarantii kaitseb Teie digitaalset investeeringut. Seame alati prioriteediks Teie rahulolu ja kui Te teenuse või kvaliteediga rahul ei ole, maksame Teile raha tagasi!"
+				},
+				{
+					"title":"Tööaja jälgimine",
+					"text":"Jälgime kõikide projektide kulgu läbi enda arendatud programmi, mis jälgib tööaega. Anname selge ülevaate, kuhu ja kuidas on tööaega investeeritud, tehes kindlaks, et Teie projekt püsib eelarves ja ajakavas."
+				},
+				{
+					"title":"Otsekohene hinnastamine",
+					"text":"Meie hinnapoliitika on lihtne ja läbipaistev, ilma varjatud tasude või üllatusteta. Töötame konsultatsiooni ja planeerimise faasis koos Teiega, et luua hinnastruktuur, mis vastab Teie eelarvele ja vajadustele!"
+				},
+				{
+					"title":"Projektijuht alati hinnas",
+					"text":"Meie tipptasemel projektijuhid tagavad selge suhtluse, tõhusa tööprotsessi ja tõrgeteta tellimuskogemuse. Teie arendusprojekt on alati juhitud, alati tasuta!"
+				},
+				{
+					"title":"Top kvaliteet",
+					"text":"Erinevalt paljudest veebiagentuuridest, piirdume maksimaalselt 2-3 samaaegse projektiga. Seame esikohale kvaliteedi, mistõttu suudame järjepidevalt saavutada erakordseid tulemusi, ületades ootuseid."
+				},
+				{
+					"title":"Tipptalendid",
+					"text":"Techsy tipptasemel talentidest koosnevad spetsialistid toovad igasse projekti hulgaliselt uut energiat, kogemusi, loovust ja tehnilist vilumust. Kui Te tahate midagi uut ja lahedat, siis olete õiges kohas!"
+				}
+			]
+		},
+		"blogSection":{
+			"headerOne":"Meie hiljutised",
+			"headerSecond":"Blogiartiklid"
+		},
+		"areYouReady":{
+			"headerOne":"Kas oled valmis",
+			"headerSecond":"Oma idee ellu äratama?",
+			"receive":"Kuni 1h tasuta strateegilist konsultatsiooni ja tasuta hinnapakkumine.",
+			"receiveMobile":"kuni 1h tasuta konsultatsiooni <br /> ja tasuta hinnapakkumine",
+			"btn1":"Broneeri kohtumine",
+			"btn1Mobile":"Broneeri kohtumine",
+			"btn2":"Või kirjuta meile",
+			"and":"või"
+		},
+		"howDoWe":{
+			"headerOne":"Kuidas me",
+			"headerSecond":"Seda teeme?",
+			"data":[
+				{
+					"leftPoint":"0",
+					"width":"278",
+					"desc":{
+						"content":"Konsultatsiooni käigus viime läbi<br/>auditi, mille käigus kaardistame<br/>valukohad ja tuleviku strateegiad."
+					},
+					"header":{
+						"content":"Konsultatsioon<br/>ja Analüüs"
+					}
+				},
+				{
+					"leftPoint":"238",
+					"width":"280",
+					"desc":{
+						"content":"Töötame välja spetsiaalselt Teile<br/>kohandatud strateegia, mida<br/>võiksime implementeerida. "
+					},
+					"header":{
+						"content":"Strateegia<br/>Ettepanek"
+					}
+				},
+				{
+					"leftPoint":"491",
+					"width":"253",
+					"desc":{
+						"content":"Lepime kokku eelarves, mis on<br/>kooskõlas eesmärkide ja<br/>kavandatud strateegiatega."
+					},
+					"header":{
+						"content":"Eelarve<br/>Kooskõlastamine"
+					}
+				},
+				{
+					"leftPoint":"710",
+					"width":"296",
+					"desc":{
+						"content":"Viime heakskiidetud strateegiad<br/>ellu, optimeerimides ja tehes<br/>vajalike muudatusi."
+					},
+					"header":{
+						"content":"Strateegia Elluviimine<br/>ja Monitoorimine",
+						"contentMobile":"Strateegia<br/>Elluviimine"
+					}
+				},
+				{
+					"leftPoint":"960",
+					"width":"275",
+					"desc":{
+						"content":"Detailsed aruanded peamiste<br/>tulemusnäitajate kohta, mis<br/>annavad täieliku ülevaate."
+					},
+					"header":{
+						"content":"Regulaarne Aruandlus<br/>ja Tagasiside",
+						"contentMobile":"Pidev Aruandlus<br/>ja Tagasiside"
+					}
+				}
+			]
+		},
+		"devProcessSection":{
+			"headerOne":"Meie kodulehtede",
+			"headerSecond":"Arendusprotsess",
+			"desc":"Otseloomulikult pakume lisaks arendustöödele ka pidevat kodulehtede haldus-ja hooldusteenust,<br/>et tagada Teie kodulehe turvalisus ja täielik toimimine ööpäevaringselt.",
+			"data":[
+				{
+					"leftPoint":"0",
+					"width":"279",
+					"desc":{
+						"content":"Tihe koostöö projektijuhi ja kliendi<br/>vahel, et märata kindlaks<br/>eesmärgid, vajadused, eelarved."
+					},
+					"header":{
+						"content":"Planeerimine,<br/>konsultatsioon"
+					}
+				},
+				{
+					"leftPoint":"238",
+					"width":"280",
+					"desc":{
+						"content":"Vajaduste wireframe’mine:<br/>Visuaalselt atraktiivse<br/>kasutajasõbraliku liidese disain."
+					},
+					"header":{
+						"content":"Wireframe ja<br/>UX/UI Disain"
+					}
+				},
+				{
+					"leftPoint":"486",
+					"width":"268",
+					"desc":{
+						"content":"Koduleht arendatakse, kasutades<br/>eelnevalt kujundatud graafilisi<br/>elemente."
+					},
+					"header":{
+						"content":"Kodulehe<br/>arendamine"
+					}
+				},
+				{
+					"leftPoint":"710",
+					"width":"296",
+					"desc":{
+						"content":"Ettevalmistus avalikustamiseks.<br/>Viimistlus, testimine, koodi<br/>valideerimine ja muud kontrollid."
+					},
+					"header":{
+						"content":"Rakenduse testimine,<br/>lansseerimine",
+						"contentMobile":"Rakenduse<br/>lansseerimine"
+					}
+				},
+				{
+					"leftPoint":"969",
+					"width":"262",
+					"desc":{
+						"content":"Jätkame kodulehe pidevat<br/>jälgimist. Uuendused,<br/>tagavarakoopiad jms."
+					},
+					"header":{
+						"content":"Haldus, regulaarsed<br/>uuendused",
+						"contentMobile":"Haldus ja<br/>uuendused"
+					}
+				}
+			]
+
+		},
+		"devProcessSectionMobile":{
+			"headerOne":"Meie mobiilirakenduste",
+			"headerSecond":"Arendusprotsess",
+			"data":[
+				{
+					"leftPoint":"0",
+					"width":"279",
+					"desc":{
+						"content":"Tihe koostöö projektijuhi ja kliendi<br/>vahel, et märata kindlaks<br/>eesmärgid, vajadused, eelarved."
+					},
+					"header":{
+						"content":"Planeerimine,<br/>konsultatsioon"
+					}
+				},
+				{
+					"leftPoint":"238",
+					"width":"280",
+					"desc":{
+						"content":"Vajaduste wireframe’mine:<br/>Visuaalselt atraktiivse<br/>kasutajasõbraliku liidese disain."
+					},
+					"header":{
+						"content":"Wireframe ja<br/>UX/UI Disain"
+					}
+				},
+				{
+					"leftPoint":"486",
+					"width":"268",
+					"desc":{
+						"content":"Mobiilirakendus arendatakse,<br/>kasutades eelnevalt kujundatud<br/>graafilisi elemente."
+					},
+					"header":{
+						"content":"Rakenduse<br/>Arendamine"
+					}
+				},
+				{
+					"leftPoint":"710",
+					"width":"296",
+					"desc":{
+						"content":"Ettevalmistus avalikustamiseks.<br/>Viimistlus, testimine, koodi<br/>valideerimine ja muud kontrollid."
+					},
+					"header":{
+						"content":"Rakenduse testimine,<br/>lansseerimine",
+						"contentMobile":"Rakenduse<br/>lansseerimine"
+					}
+				},
+				{
+					"leftPoint":"969",
+					"width":"262",
+					"desc":{
+						"content":"Jätkame mobiilirakenduse<br/>pidevat jälgimist. Uuendused,<br/>tagavarakoopiad jms."
+					},
+					"header":{
+						"content":"Haldus, regulaarsed<br/>uuendused",
+						"contentMobile":"Haldus ja<br/>uuendused"
+					}
+				}
+			]
+		},
+		"aboutUsTopSection":{
+			"headerOne":" ",
+			"headerSecondP1":"<span>Mida&nbsp;</span><span>me&nbsp;</span><span>teeme&nbsp;</span><br/><span>ja&nbsp;</span><span>kes&nbsp;</span><span>me&nbsp;</span><span>oleme?</span>",
+			"headerSecondP2":" ",
+			"headerSecondP1Mobile":"Mida me teeme ja kes me oleme?",
+			"headerSecondP2Mobile":" ",
+			"description":"Techsy on 2021. aastal Tallinnas, Eestis asutatud remote-first <span>veebiagentuur</span>, mis keskendub <span>veebi</span>-, <span>mobiili</span>-, ja <span>tarkvaraarendusele</span>, <span>UX/UI disainile</span> ning erinevate <span>online turundus</span>- ja <span>müügistrateegiate</span> testimisele ning rakendamisele.<br/><br/>Naljakal kombel oli Techsy leht algselt ehitatud lihtsa maandumislehena, et katsetada email müügistrateegiat, kuid arenesime kiiresti millekski palju suuremaks. ",
+			"btn1":"Tutvu meeskonnaga",
+			"littleWarning": "Receive up to 1hr free consultation",
+
+			"littleTextAfterCompany":"Meie kliendid ja partnerid on meie kangelased. Meie eesmärgiks on alati olnud olla olemas oma teadmiste ja kogemustega, olenemata ettevõtte suurusest. Tänu Teile me eksisteerime ja oleme motiveeritud kasvama ja arenema. Ootame huviga, et jätakata uute suhete loomist ja koostööd, et luua veelgi rohkem lahendusi, mis aitavad kaasa Teie edule!",
+			"littleTextAfterCompanyMobile":"Meie kliendid ja partnerid on meie kangelased. Meie eesmärgiks on alati olnud olla olemas oma teadmiste ja kogemustega, olenemata ettevõtte suurusest. Tänu Teile me eksisteerime ja oleme motiveeritud kasvama ja arenema."
+
+		},
+		"missionSection":{
+			"headerOne":"Meie",
+			"headerSecond":"Missioon",
+			"description":"Meie missioon Techsy’s on pakkuda tänapäevaseid ja tõhusaid <span>tarkvaralahendusi</span>, mis aitavad meie klientidel saavutada oma ärieesmärgid. Usume, et arendusprotsess ei seisne mitte ainult koodi kirjutamises - see seisneb meie klientide unikaalsete <span>vajaduste mõistmises</span> ja <span>tehniliste teadmiste rakendamises</span>, et luua lahendusi, mis meie klientide eesmärke ja vajadusi tõeliselt rahuldavad.<br/><br/>Oleme pühendunud kvaliteedile, pakume <span>tarkvaralahendusi</span>, mis mitte ainult ei tööta laitmatult, vaid pakuvad kasutajatele ka reaalset väärtust ja kasutajakogemust. Oleme oma töös kirglikud ja teeme asja armastusega. Püsime valdkonna eesliinil, õppides ja kohanedes pidevalt arenevate tehnoloogiate ja metoodikatega. Tänu sellele suudame oma klientidele pakkuda parimaid võimalikke lahendusi.<br/><br/>Pakume ühele veebiagentuurile kohaselt täielikku teenusevalikut - <span>Kodulehtede</span> ja <span>mobiilirakenduste</span> <span>arendus</span>, <span>tarkvaraarendus</span>, <span>UX/UI disain</span>, erinevad <span>turundus</span>- ja <span>müügistrateegiad</span> ning otseloomulikult pidevat tuge ja hooldust."
+		},
+		"ourTeamSection":{
+			"headerOne":"Tutvuge",
+			"headerSecond":"Meie meeskonnaga",
+			"dec1":"Tutvuge meie väikese, kuid tagasihoidliku meeskonnaga. Üheskoos toome lauale hulgaliselt ideid, kogemusi ja teadmisi. Oleme küll väike agentuur, kuid tänu meie kogemustele ja tutvusvõrgustikule, suudame tagada iga projekti edu.",
+			"dec1Mobile":"Tutvuge meie tagasihoidliku meeskonnaga. Üheskoos toome lauale hulgaliselt ideid, kogemusi ja teadmisi.",
+		
+			"dec2":"Keskendudes koostööle, kommunikatsioonile ja läbipaistvusele, teeme oma klientidega tihedat koostööd kogu arendusprotsessi vältel, et tagada, et nad oleksid protsessidega alati kursis ja saaksid lõpptoote osas kaasa rääkida. Meie kogenud arendajate, disainerite ja projektijuhtide meeskond on pühendunud kvaliteetsete tööde õigeaegsele tarnimisele.",
+			"dec2Mobile":"Teeme oma klientidega tihedat koostööd kogu arendusprotsessi vältel, et tagada, et nad oleksid protsessidega alati kursis ja saaksid lõpptoote osas kaasa rääkida. Meie kogenud arendajate, disainerite ja projektijuhtide meeskond on pühendunud kvaliteetsete tööde õigeaegsele tarnimisele.",
+			
+			"data":[
+				{
+					"text":"Jälgides kulli pilguga projektide kulgu, on tema roll teha kindlaks, et projekti eesmärkidest, eelarvetest ja tähtaegest peetakse kinni."
+				},
+				{
+					"text":"Keskendudes SMM, PPC ja foto- ning videograafiale, ühendab ta kunsti ja strateegia, luues Teile kaasahaaravad reklaamikampaaniad, mis päriselt töötavad!"
+				},
+				{
+					"text":"Läbi kasutajakeskse disainifilosoofia annab ta Teie kasutajaliidestele elu ja hingamise, tagades, et iga klõps on intuitiivne ja iga visuaalne element jutustab veenva loo."
+				},
+				{
+					"text":"Arhitekt tagatasutal, ta muudab keerulised algorütmid elegantseteks lahendusteks. Tema loob Teie skaleeruva ja usaldusväärse infrastruktuuri."
+				},
+				{
+					"text":"Meie koodivirtuooso, kes navigeerib sujuvalt serveripoolse loogika (node.js) ja dünaamiliste kasutajaliideste (vue.js) loomise vahel."
+				},
+				{
+					"text":"Meie tech maestro, kes valmistab Svelte ja React abil välkkiireid responsive kasutajaliideseid ning juhib node.js abil jõulisi backend-funktsioone."
+				},
+				{
+					"text":"Meie WordPressi projektide loominguline ja tehniline jõud. Ta panustab meeskonda nooruslikku energiat, tagades teie WordPressi kodulehtede laitmatu toimimise."
+				}
+			]
+		},
+		"whatSpecializeSection":{
+			"headerOne":"What",
+			"headerSecond":"We specialize in",
+
+			"data":[
+				{
+					"title":"Native Mobile Applications",
+					"text":"Kujutage ette veebisaiti, mis on sama sujuv ja kiire kui mobiilirakendus, kus sisu voolab sujuvalt ja üleminekud on kohesed. Me loome veebikogemusi, kus kõik laetakse silmapilkselt, navigeerimine on vaevata ja teie kasutajad on teie sisuga hõivatud ilma hetkekski katkestamata."
+				},
+				{
+					"title":"Hybrid Mobile Applications",
+					"text":"Kui otsite kaunilt kujundatud, valmis veebilehte, mida saab kohandada teie unikaalsele brändile, on WordPressi veebilehe mall ideaalne valik. Saate kõik professionaalselt kujundatud saidi eelised ilma suurte kuludeta, mis teeb sellest täiusliku lahenduse kõigile, kes soovivad internetis särada."
+				},
+				{
+					"title":"IoT mobiilirakendused",
+					"text":"Erinevalt eelnevalt kujundatud mallidest on kohandatud veebisaidid hoolikalt kohandatud vastavalt teie ainulaadsele nägemusele ja vajadustele. Need sobivad ideaalselt ettevõtetele, kes otsivad ainulaadset veebipresentatsiooni, mis peegeldab nende brändi, ettevõtjatele, kellel on konkreetne visioon, ja organisatsioonidele, kes vajavad erifunktsioone."
+				},
+				{
+					"title":"Progressive Web Apps",
+					"text":"Veebilehed, mis toimivad nagu rakendused. PWA-d laadivad kiiresti, töötavad võrguühenduseta ja pakuvad sujuvat interaktsiooni, tagades teie kasutajatele rakendusele sarnase kasutuskogemuse otse veebibrauserist. See pakub rikkalikku, rakendust meenutavat kogemust, olles samal ajal kulutõhus, kergesti hooldatav ja hästi kättesaadav."
+				}
+			]
+		},
+		"WeOffer":{
+			"headerOne":"Kõik veebilahendused",
+			"headerSecond":"Ühest kohast",
+			"description":"Meie arendusmeeskond naudib võimalust luua vajadustele kohandatud kodulehti, mis vastavad täpselt teie soovidele. Tagame, et teie koduleht ei ole kõigest funktsionaalne, vaid erakordne!",
+			"data":[
+				{
+					"title":"Single Page Veebilehed",
+					"text":"Kujutage ette kodulehte, mis on sama sujuv ja kiire kui mobiilirakendus. Kus sisu voolab sujuvalt, üleminekud on kiired ja kohesed.<br/>Single Page Application lahendusega on see võimalik, kõik sisu teie rakenduses laetakse silmapilkselt ilma hetkegi ootamata."
+				},
+				{
+					"title":"Progressive Web Apps",
+					"text":"PWA ehk progressiivne veebirakendus: Koduleht, mis toimib nagu mobiilirakendus. Laevad kiirelt ja töötavad võrguühenduseta, tagades kasutajatele rakendustele sarnast kasutujakogemust otse veebibrauserist. Kulutõhus, kergesti hooldatav ja hästi kättesaadav."
+				},
+				{
+					"title":"Wordpress Kodulehed",
+					"text":"Ideaalne koduleht alustavale ettevõtjale: kaunilt kujundatud valmisdisainid mida on võimalik kohandada teie unikaalsele kaubamärgile. Saate kõik nullist arendatud kodulehe eelised ilma suurte kuludeta."
+				},
+				{
+					"title":"Koduleht nullist",
+					"text":"Rätseplahendusena valminud koduleht: Sobib ideaalselt ettevõtetele, kes otsivad ainulaadset veebilahendust, mis peegeldab nende brändi. Ettevõtjale, kellel on konkreetne visioon, kes tahab teistest turu tegijates erineda ning kellel on vajadus erifunktsionaalsuste järgi."
+				}
+			]
+		},
+		
+		"whatCanSection":{
+			"headerOne":"Mida",
+			"headerSecond":"Me saame teie jaoks teha",
+
+			"data":[
+				{
+					"title":"Ühe lehekülje rakendused",
+					"text":"Kujutage ette veebisaiti, mis tundub sujuv ja kiire nagu mobiilirakendus, kus sisu voolab sujuvalt ja üleminekud on kohesed. Me loome veebikogemusi, kus kõik laetakse silmapilkselt, navigeerimine on vaevata ja teie kasutajad on teie sisuga hõivatud ilma hetkekski katkestamata."
+				},
+				{
+					"title":"Progressive Web Apps",
+					"text":"Veebilehed, mis toimivad nagu rakendused. PWA-d laadivad kiiresti, töötavad võrguühenduseta ja pakuvad sujuvat interaktsiooni, tagades teie kasutajatele rakenduste sarnase kogemuse otse veebibrauserist. See pakub rikkalikku, rakendusele sarnast kogemust, olles samal ajal kulutõhus, kergesti hooldatav ja hästi kättesaadav."
+				},
+				{
+					"title":"Wordpress veebilehed",
+					"text":"Kui otsite kaunilt kujundatud, valmis veebilehte, mida saab kohandada teie unikaalsele brändile, on WordPressi veebilehe mall ideaalne valik. Saate kõik professionaalselt kujundatud saidi eelised ilma suurte kuludeta, mis teeb sellest täiusliku lahenduse kõigile, kes soovivad internetis särada."
+				},
+				{
+					"title":"Custom Websites",
+					"text":"Erinevalt eelnevalt kujundatud mallidest on kohandatud veebisaidid hoolikalt kohandatud vastavalt teie ainulaadsele nägemusele ja vajadustele. Need sobivad ideaalselt ettevõtetele, kes otsivad ainulaadset veebipresentatsiooni, mis peegeldab nende brändi, ettevõtjatele, kellel on konkreetne visioon, ja organisatsioonidele, kes vajavad erifunktsioone."
+				}
+			]
+		},
+		"haveAnswerSection":{
+			"header1P1":"Teil on mure?",
+			"header1P2":"Meil on lahendused!",
+			"dec":"Oleme siin, et muuta Teie ideed saavutusteks.<br/>Võtke ühendust ja ehitame üheskoos midagi erakordset."
+		},
+		"mobileDevCards":{
+			"headerOne":"Milliseid mobiilirakendusi",
+			"headerSecond":"Me arendame?",
+			"description":"Arusaadavalt, võib sobiva lahenduse valimine olla keeruline protsess ka kogenud inimese jaoks.<br/>Me loome lahendusi vastavalt ärivajadustele ja eelarvele ja saame Teile otsuse langetamisel abiks olla.<br/>Disainime, arendame, testime, pakume tuge ja hooldust.",
+
+			"data":[
+				{
+					"title":"Native Rakendused",
+					"text":"Need rakendused on arendatud konkreetsetele platvormidele nagu iOS ja Android, ning need rakendused maksimeerivad seadme võimalusi, pakkudes rikkalikku ja optimeeritud kasutajakogemust."
+				},
+				{
+					"title":"Hybrid Rakendused",
+					"text":"Kuluefektiivne lahendus, kasutades veebitehnoloogiaid nagu HTML,CSS ja JS. Kiirem ja lihtsam arendada kui Native rakendusi. Ehitatud viisil, kus arendajad saavad ühte koodi kasutada erinevate operatsioonisüsteemid jaoks."
+				},
+				{
+					"title":"IoT Rakendused",
+					"text":"Hõlbustavad füüsiliste seadmete sujuvat integreerimist digitaalsesse maailma, võimaldades tõhusat andmete kogumist, automatiseerimist ja paremat otsustamist erinevates valdkondades."
+				},
+				{
+					"title":"Progressive Web Apps",
+					"text":"Kulutõhus lahendus, kergesti hooldatav ja kättesaadav. Töötavad võrguühenduseta, laevad kiiresti ja pakuvad native rakendusele sarnast mugavust, ilma, et neid oleks vaja installida nt. App Store või Google Play poe kaudu. "
+				}
+			]
+		}
+	},
+	"panels":{
+		"topPanel":{
+			"orMobile_XS":"Või broneeri kohtumine",
+			"orMobile":"Või broneeri Videokohtumine",
+			"or":"või",
+			"btn":"Kirjuta meile juba täna!"
+		}
+	},
+	"contactSteps":{
+		"firstStep":{
+			"figure_your_needs":"Esmalt, kaardistame Teie vajadused!",
+			"first_step_text": "Järgnevate täpsustavate küsimustega kaardistame Teie konkreetsed vajadused. Pakume omalt poolt kuni tund aega tasuta konsultatsiooni.",
+			"first_step_text_mobile": "Järgnevate täpsustavate<br />küsimustega kaardistame<br />Teie konkreetsed vajadused."
+		}
+	},
+	"common":{
+		"nda":{
+			"destop": "Soovin allkirjastada konfidentsiaalsuslepingu.",
+			"mobile": "Soovin allkirjastada konfidentsiaalsuslepingu."
+		},
+		"would_call":{
+			"desktop":"Kas soovite, et helistaksime Teile?",
+			"mobile": "Kas helistame teile ?"
+		}
+	},
+	"landing_page": {
+		"mobdev":{
+			"header2": "<span>Mobiilirakenduste&nbsp;</span><span>arendus&nbsp;</span><span>ja&nbsp;</span><span>disain</span>",
+			"header2Mobile": "Mobiili-rakenduste arendus",
+			"header3": "iOS ja Android’ile",
+			"description": "Otsid <span>mobiilirakenduse arendajaid?</span><br/>Meie andekal meeskonnal on aastatepikkune kogemus tipptasemel <span>mobiilirakenduste arendamisel ja disainimisel</span> nii <span>iOS</span> kui ka <span>Android</span> platvormidele.<br/><span>Arendame mobiilirakendusi</span>, mis loovad väärtust!",
+			"btnText":"Tahan cool’i rakendust"
+		},
+		"webdev":{
+			"header2": "<span>Veebilahendused</span><br/><span>ja&nbsp;</span><span>kodulehed</span>",
+			"header2Mobile": "Kodulehtede arendus ja UX/UI disain",
+			"header3": "Mis päriselt ka kasu toovad",
+			"description": "<span>Arendame</span> <span>kvaliteetseid</span> mobiilisõbralikke dünaamilisi <span>kodulehti</span>, mis vastavad teie ärivajadustele ja eelarvele. Oleme enamasti keskendunud <span>nullist valminud kodulehtede arendusele</span>, kuid pakume ka nt. Wordpressi peale arendatud lihtsamaid kodulehti.",
+			"btnText":"Tahan tasuta pakkumist",
+
+			"dev1": "Planeerimisetapp",
+			"dev2": "Wireframing & UX/UI disain",
+			"dev3": "Arengufaas",
+			"dev4": "Testimine ja käivitamine",
+			"dev5": "hooldus, regulaarne ajakohastamine",
+		
+			"description1": "Me oleme spetsialiseerunud kohandatud veebilahenduste loomisele, mis vastavad meie klientide ainulaadsetele vajadustele, kus me loome kvaliteetseid dünaamilisi veebisaite, mis vastavad teie ärivajadustele. Sellel leheküljel saate loodetavasti teada üht-teist meie arendusprotsessi kohta.",
+			"description2": "Meie meeskond naudib võimalust luua kohandatud mobiilirakendusi, mis vastavad täpselt teie vajadustele, tagades, et teie rakendus ei ole lihtsalt funktsionaalne, vaid erakordne, sest teie kujutlusvõime on meie ainus piir.",
+			"description3": "Loomulikult pakume ka pidevat hooldus- ja tugiteenust, et tagada rakenduse pidev ajakohasus, turvalisus ja täielik funktsionaalsus.",
+			"description4": "Loe rakenduse hoolduse kohta lähemalt siit",
+
+			"devdesc1": "Tihe koostöö arendusmeeskonna ja kliendi vahel, et määrata kindlaks eesmärgid ja sihid.",
+			"devdesc2": "Kohandatud, kasutajasõbraliku kasutajaliidese loomine, mis on visuaalselt atraktiivne ja hõlpsasti navigeeritav.",
+			"devdesc3": "Veebisaidi loomine, kasutades eelnevalt kujundatud graafilisi elemente ja saidi hierarhiat. ",
+			"devdesc4": "Saidi ettevalmistamine avalikuks kasutamiseks koos viimistluse, põhjaliku testimise, koodi valideerimise ja muude QAga seotud kontrollidega.",
+			"devdesc5": "Meie meeskond jätkab lahenduse pidevat jälgimist. Hooldus on ülioluline.",
+
+			"cardHead1": "Ühe lehekülje rakendused",
+			"cardHead2": "Progressive Web Apps",
+			"cardHead3": "Wordpress veebilehed",
+            "cardHead4": "Custom Websites",
+            
+			"cardDesc1": "Kujutage ette veebisaiti, mis tundub sujuv ja kiire nagu mobiilirakendus, kus sisu voolab sujuvalt ja üleminekud on kohesed. Me loome veebikogemusi, kus kõik laetakse silmapilkselt, navigeerimine on vaevata ja teie kasutajad on teie sisuga hõivatud ilma hetkekski katkestamata.",
+			"cardDesc2": "Veebilehed, mis toimivad nagu rakendused. PWA-d laadivad kiiresti, töötavad võrguühenduseta ja pakuvad sujuvat interaktsiooni, tagades teie kasutajatele rakenduste sarnase kogemuse otse veebibrauserist. See pakub rikkalikku, rakendusele sarnast kogemust, olles samal ajal kulutõhus, kergesti hooldatav ja hästi kättesaadav.",
+            "cardDesc3": "Kui otsite kaunilt kujundatud, valmis veebilehte, mida saab kohandada teie unikaalsele brändile, on WordPressi veebilehe mall ideaalne valik. Saate kõik professionaalselt kujundatud saidi eelised ilma suurte kuludeta, mis teeb sellest täiusliku lahenduse kõigile, kes soovivad internetis särada.",
+            "cardDesc4": "Erinevalt eelnevalt kujundatud mallidest on kohandatud veebisaidid hoolikalt kohandatud vastavalt teie ainulaadsele nägemusele ja vajadustele. Need sobivad ideaalselt ettevõtetele, kes otsivad ainulaadset veebipresentatsiooni, mis peegeldab nende brändi, ettevõtjatele, kellel on konkreetne visioon, ja organisatsioonidele, kes vajavad erifunktsioone."
+		}
+	},
+	
+	"home": "Home",
+	"pricing": "Kontakt",
+	"we_specialise": "Oleme spetsialiseerunud",
+	"web_dev_header": "Web & Sowftware <br /> Development",
+	"info_technology_mobile": "Info<br/>Tehnoloogia",
+	"services_from": "Teenused nullist sajani",
+	"hero_text": "Tarkvarateekond Teie digitaalse tuleviku poole.<br/>Meie meeskond koosneb kogenud projektijuhtidest, analüütikutest, disaineritest ja veebiarendajatest. Oleme kursis uusimate trendide, tööriistade ja tehnikatega, aidates Teil tõhusalt ja mugavalt digimaailmas läbi lüüa.<br/><b class='font-bold'>Techsy</b> on agentuur, mis ehitab brände igast küljest. Täna, homme ja aastate pärast.",
+	"hero_text_mobile": "Take the software path to your digital<br/>future. We here at <b class='font-bold'>Techsy</b> will help<br/>you fulfill your dreams of whatever<br/>project, whatever text, some<br/>marketing text that have’s SEO in it!!!<br/>Not sure what lese to show on the<br/>frontpage.",
+	"discuss": "Arutame Teie projekti",
+	"free_consultation": "Kuni 1h tasuta konsultatsiooni",
+	"free_consultation_mobile": "Kuni 1h tasuta<br/>konsultatsiooni",
+	"fallowing_areas": "Järgmistes valdkondades",
+	"technologies_text": "Kuigi enamik meie fookusest on vingete ja erakordsete kaasaegsete veebi- ja mobiilirakenduste arendusel, pakume oma klientidele ka hooldustuge, 360° UX/UI disainilahendusi, online-turundusstrateegiaid ja konsultatsiooniteenuseid. Meie meeskond koosneb vaid valitud spetsialistidest, kes kuuluvad oma valdkonna 1% tippu.",
+	"we_work_with": "Me töötame",
+	"leading_technologies": "Kaasaegsete tehnoloogiatega",
+	"companies": "Ettevõtetega, kes meid usaldavad",
+	"web_development": "Veebiarendus",
+	"web_development_text": "Kasutades kõige kaasaegsemaid tehnoloogiaid, loome ühelehelisi rakendusi (SPA) ja nullist valminud kodulehti. Samuti arendame ka mallipõhiseid kodulehti.",
+	"custom_software": "Kohandatud tarkvaraarendus",
+	"custom_software_text": "Loomingulisest ideest teostuseni. Olgu selleks lihtne CMS süsteem või keeruline CRM, ERP või muu süsteem, aitame Teil viia Teie idee uutesse kõrgustesse!",
+	"mobile_development": "Mobiilirakenduste arendus",
+	"mobile_development_text": "Enamikel juhtudel loome tänapäeval taskukohasemaid progressiivseid veebirakendusi (PWA), kuid meil on ka ettevõttesiseseid hybrid ja native iOS ning Android mobiilirakenduste arendajad.",
+	"website_maintenance": "Kodulehe haldus",
+	"website_maintenance_text": "Jooksvad või igakuised uuendused, tagavarakoopiad, veebiaplikatsiooni monitoorimine, analüüs, tugi ja veebilehtede optimeerimine, et suurendada veebilehtede jõudlust ja kiirust.",
+	"ux_ui_design": "UX/UI Disain",
+	"ux_ui_design_text": "Alateadlik otsus, kas miski tundub atraktiivne, tehakse vaid mõne hetke jooksul. Sul on võimalus teistest eristuda ja jõuda klientideni enne oma konkurente. Visuaalne identieet, graafiline disain, illustratsioon jne..",
+	"marketing_sales": "Turundus ja müük",
+	"marketing_sales_text": "Kasvatage oma ettevõtet, liiklust, kasumit ja nähtavust Techsy abil. <br> LinkedIn, GoogleAds, Analytics4 ja konsultatsiooniteenused.",
+	"figure_your_needs": "Kaardistame Teie vajadused!",
+	"name": "Nimi",
+	"email": "E-posti aadress",
+	"phone": "Telefoninumber",
+	"project_description": "Küsimus",
+	"nda": "Soovin oma ideed kaitsta, <br />allkirjastades konfidentsiaalsuslepingu.",
+	"nda_mobile": "Soovin oma ideed kaitsta,</br>allkirjastades konfidentsiaalsuslepingu.",
+	"nda_tooltip": "Ennem, kui me Teie projekti detailsemalt arutama hakkame, on Teil võimalus sõlmida konfidentsiaalsusleping.",
+	"all_rights": "Kõik õigused kaitstud.",
+	"first_step_text_alt": "Our local project manager will be in touch with you.<br /> Receive up to <b class='font-semibold'>1h of free consultation.</b>",
+	"first_question": "1. Kui Sina peal te tehnoloogiaga olete?",
+	"first_question_option_1": "Ma ei ole tehnoloogiaga üldse kursis ja vajan konsultatsiooni.",
+	"first_question_option_2": "Olen teatud terminoloogiaga tuttav, kuid vajan siiski abi.",
+	"first_question_option_3": "Mul on kogu vajalik dokumentatsioon juba olemas, ning tean täpselt mida vajan.",
+	"second_question": "2. Mis on teie tarkvara arendusprotsessi praegune etapp?",
+	"second_question_option_1": "Mul on idee.",
+	"second_question_option_2": "Mul on prototüüp/spetsifikatsioon.",
+	"second_question_option_3": "Mul on olemasolev disainilahendus ja otsin arendust.",
+	"second_question_option_4": "Mul on MVP.",
+	"third_question": "3. Millega me Teile kasuks saame olla?",
+	"third_question_option_1": "Vajan lihtsat informatiivset kodulehte, tõenäoliselt malli peale.",
+	"third_question_option_2": "Vajan nullist arendatud ja disainitud kodulehte.",
+	"third_question_option_3": "Vajan custom tarkvaarendust, süsteemiarendust. ERP, CRM, SaaS, Scraperid, Scriptid.",
+	"third_question_option_4": "Vajan mobiilirakenduse arendust. PWA, Hybrid, Native, IoT.",
+	"third_question_option_5": "Vajan UX/UI disainiteenuseid. Veebidisain, brändi identiteet, logod, illustratsioonid.",
+	"third_question_option_6": "Vajan turundus- ja müügiteenuseid. PPC, SMM, SEO, B2B ärikontaktid.",
+	"third_question_option_7": " Vajan haldust ja hooldust. Optimeerimine, DevOps, uuendused, konsultatsioon.",
+	"fourth_question": "4. Mis on Teie projekti eeldatav kestus?",
+	"fifth_question": "5. Viimaks, vajame me Teie kontaktandmeid.",
+	"fifth_question_text": "Teie isikuandmeid käsitletakse turvaliselt ja need ei ole kolmandatele isikutele kättesaadavad.<br />Meie veebisaiti kaitseb reCAPTCHA ja Google <b class='font-bold'><a href='https://policies.google.com/privacy'>Privaatsuspoliitika</a></b> ning <b class='font-bold'><a href='https://policies.google.com/terms'>Kasutustingimused</a></b> rakenduvad.",
+	"fifth_question_text_mobile": "Teie isikuandmeid käsitletakse turvaliselt ja need ei ole<br />kolmandatele isikutele kättesaadavad.<br />Meie veebisaiti kaitseb reCAPTCHA ja <br />Google <b class='font-bold'><a href='https://policies.google.com/privacy'>Privaatsuspoliitika</a></b> ning <b class='font-bold'><a href='https://policies.google.com/terms'>Kasutustingimused</a></b> rakenduvad.",
+	"thanks_intrest": "Täname huvi eest! <br />Võtame Teiega peagi ühendust.",
+	"expert_contact": "Ekspert võtab peale Teie ärivajaduste analüüsimist Teiega ühendust.",
+	"required_nda": "Vajadusel allkirjastame kõrgeima privaatsustaseme tagamiseks konfidentsiaalsuslepingu.",
+	"pre_sale_manager": "Müügijuht esitab põhjaliku projektiettepaneku. See võib sisaldada hinnanguid, ajakavasid, CV-de loendeid jne..",
+	"team_assembled": "Teie jaoks kokku pandud meeskond võib tööle asuda juba kümne tööpäeva jooksul.",
+	"month": "kuu",
+	"less_than_month": "Vähem kui kuu",
+	"months": "kuud",
+	"24_months": "24+ kuud",
+	"year": "aasta",
+	"years": "aastat",
+	"next": "Edasi",
+	"previous": "Tagasi",
+	"get_quote": "Saada",
+	"cancel": "Tühista",
+	"back": "Mine tagasi",
+	"min_read": "min lugemine",
+	"blog_articles": "Blogipostitused",
+	"our_latest": "Hiljutised",
+	"read_article": "Loe artiklit",
+	"keywords": "Keywords:",
+	"blogs": "Blogi",
+	"sort": "Filtreeri",
+	"january": "Jaanuar",
+	"february": "Veebruar",
+	"march": "Märts",
+	"april": "Aprill",
+	"may": "Mai",
+	"june": "Juuni",
+	"july": "Juuli",
+	"august": "August",
+	"september": "September",
+	"october": "Oktoober",
+	"november": "November",
+	"december": "Detsember",
+	"share": "Share",
+	"email_copied": "E-post aadress kopeeritud lõikelauale!",
+	"phone_copied": "Telefoninumber kopeeritud lõikelauale!",
+	"name_placeholder": "The Great and Powerful Oz",
+	"email_placeholder": "abracadabra@magicmail.com",
+	"phone_placeholder": "555-123-4567",
+	"description_placeholder": "Vajan veebikat mis teeb konkurendid kadedaks!",
+	"submit": "Saada"
+}
